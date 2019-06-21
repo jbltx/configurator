@@ -1,0 +1,17 @@
+{
+    "name": "Jbltx.Configurator.Tests",
+    "references": [
+        "Jbltx.Configurator.Editor",
+        "Jbltx.Configurator.Runtime"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

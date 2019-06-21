@@ -1,0 +1,13 @@
+{
+	"name": "com.jbltx.configurator",
+	"displayName": "Configurator",
+	"unity": "2018.1", 
+    "version": "0.1.0", 
+    "dependencies": {
+    }, 
+    "keywords": [
+        "configurator", 
+        "jbltx"
+    ],
+	"description": "Configurator is a helper module to handle Editor and Runtime game configurations."
+}
